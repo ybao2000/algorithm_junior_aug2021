@@ -1,1 +1,2 @@
-     longest = len_b
+
+  if 'K' in cards:
